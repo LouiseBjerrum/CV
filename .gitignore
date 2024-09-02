@@ -3,6 +3,6 @@
 
 # Unignore the .gitignore file, LICENSE file, and PDF file 
 !.gitignore
-!LICENCE.txt
+!LICENSE.txt
 !CV_LouiseBjerrum.pdf
 
