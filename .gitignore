@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Unignore the .gitignore file, LICENSE file, and PDF file 
+!.gitignore
+!LICENCE.txt
+!CV_LouiseBjerrum.pdf
+
